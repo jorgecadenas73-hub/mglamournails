@@ -1,6 +1,14 @@
 ## Descripción 
 
-Pagina web creada para para un salon de colocacion de uñas en HTML y CCS.
+Proyecto de desarrollo web orientado a presencia digital y experiencia de usuario.
+
+Diseño e implementación de sitio web para salón de belleza, incorporando estructura responsiva, navegación intuitiva y componentes visuales enfocados en conversión y presentación de servicios.
+
+Tecnologías utilizadas:
+HTML • CSS • JavaScript
+
+Rol:
+Diseño, desarrollo e implementación.
 
 ## Autor -
 **Nombre**
