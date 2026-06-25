@@ -11,7 +11,7 @@ Rol:
 Diseño, desarrollo e implementación.
 
 ## Autor -
-**Nombre**
+Jorge ARturo Cadenas Medrano
 
 [LinkedIn] (www.linkedin.com/in/jorge-arturo-cadenas-medrano) 
 [Portafolio web] ()
